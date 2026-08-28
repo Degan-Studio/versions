@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/Degan-Org/degan-ide-studio/releases/download/1.121.05233/DeganStudio-x64-updates-disabled-1.121.05233.msi",
-  "name": "1.121.05233",
-  "version": "58a3a37ca3415b979c4195e3c509e1c08c19f0d8",
-  "productVersion": "1.121.5233.0",
-  "hash": "90276d782da4ededd240000a526e3dd82695cca3",
-  "timestamp": "1785984719311",
-  "sha256hash": "a6d9b326a27c5a2c9aa7088d56448ad567625207f0ac7e84c43f92c92b035bc3"
+  "url": "https://github.com/Degan-Studio/degan-ide-studio/releases/download/1.121.05774/DeganStudio-x64-updates-disabled-1.121.05774.msi",
+  "name": "1.121.05774",
+  "version": "80a0288b01db4bce2e6da432d0bd74d969633eed",
+  "productVersion": "1.121.5774.0",
+  "hash": "f751190c5c476ab150a6bd7e2e6644f3f565bf01",
+  "timestamp": "1787934661086",
+  "sha256hash": "b9b85d7b1d525b4cbbf0b267fc5e2273ee56b6f25c679ad48925ef9ca097b960"
 }
