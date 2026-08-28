@@ -1,9 +1,9 @@
 {
-  "url": "https://github.com/Degan-Studio/degan-ide-studio/releases/download/1.121.05774/DeganStudioSetup-x64-1.121.05774.exe",
-  "name": "1.121.05774",
-  "version": "80a0288b01db4bce2e6da432d0bd74d969633eed",
-  "productVersion": "1.121.5774.0",
-  "hash": "f7ec814cd7133184ee215bda5f08203c5939e123",
-  "timestamp": "1787934660288",
-  "sha256hash": "dbf04783809a749cf42027500ebb47912bf3133ea523e94de52acc1003e4818d"
+  "url": "https://github.com/Degan-Studio/degan-ide-studio/releases/download/1.121.05775/DeganStudioSetup-x64-1.121.05775.exe",
+  "name": "1.121.05775",
+  "version": "6ed8b486f5e4ce9b51ad8c91da1e7ac2eececbc8",
+  "productVersion": "1.121.5775.0",
+  "hash": "8d6cb759601c358d71cd1d03d323b0720f25624f",
+  "timestamp": "1787938411748",
+  "sha256hash": "ea5e4f4323b31a256fcf879d8106ad15ccfb3f6ad1c1338119d0645ea4f5f708"
 }
